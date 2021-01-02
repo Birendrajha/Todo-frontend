@@ -1,0 +1,19 @@
+.login{
+    display:flex;
+    flex-direction:column;
+   margin:auto;
+    width:200px;
+    margin-top:50px;
+    height:150px;
+    justify-content: space-evenly;
+    /* background-image: linear-gradient(#00ff15,#ffff00); */
+}
+.error {
+    color:red;
+    text-align:center;
+    font-size: 10px;;
+}
+
+body {
+    background-image:linear-gradient(#ffff00,#ffff00);
+}
